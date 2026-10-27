@@ -1,0 +1,6 @@
+{
+  "name": "Silat Team Management System",
+  "description": "Sistem Pengurusan Pasukan Silat Malaysia untuk pengurusan atlet, jurulatih, jadual latihan, kehadiran, pendaftaran kejohanan, dan pencapaian pingat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
